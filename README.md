@@ -21,7 +21,7 @@ Instructions
 * deploy on a Github page
 
 ## Resources
-* [grid garden}(http://cssgridgarden.com/#es)
+* [grid garden](http://cssgridgarden.com/#es)
 * [CSS rules](https://www.w3schools.com/css/default.asp)
 * [Grids tutorial](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
