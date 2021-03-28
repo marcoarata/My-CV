@@ -1,22 +1,17 @@
-* {
-    margin: 0;
-}
-
 html {
     height: 100vh;
     width: 100vw;
     background-image: url(https://i.pinimg.com/originals/40/da/35/40da351a71694b61ca21fc0fa3af226d.jpg);
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: lighter;
-    font-size: 12px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 body {
     height: 90%;
-    width: 80%;
+    width: 85%;
     background-color: rgb(255, 255, 255);
+    color: #1d4b2b;
     margin: auto;
-    color: rgb(255, 255, 255);
+    margin-top: 60px;
     text-align: center;
     display:flex;
     flex-direction: column;
@@ -29,18 +24,11 @@ img {
     height: auto;
 }
 
-header {
-    font-size: 30px;
-}
-
 h1 {
-    font-size: 32px;
-    padding: 0;
-    text-shadow: 2px 2px #ffffff;
-    text-transform: uppercase;
-    transition-duration: 1s;
+    font-size: 50px;
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 30px;
+    color: #3f3e3e;
 }
