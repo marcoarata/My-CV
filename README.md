@@ -1,4 +1,5 @@
 ## Link to [My-CV](https://marcoarata.github.io/My-CV/)
+## Link to [Reference](https://www.modelocurriculum.net/plantilla-de-curriculum-vitae-sin-experiencia.html/ejemplo-curriculum-sin-experiencia)
 
 # Curriculum vitae
 * Type of challenge: **learning**
